@@ -21,7 +21,7 @@ public class ClarifaiExample {
     public static void main(String[] args) throws IOException {
 
 
-        final ClarifaiClient client = new ClarifaiBuilder("KKQIegBW9uOl_3vaMSzqq4QCfPNyNBvB7XNBz1vE", "xsY48eiDhhsFo5M7HE3F71ZYkB_tEQmemlWekTgG")
+        final ClarifaiClient client = new ClarifaiBuilder("Zg5p5G8Te186Gk0B--5FrCTivO3r9uYYFeU2brIN","fGjcSkiSq599oqhv0CzqHgf4YwgCFlioe1XiWW7X")
                 .client(new OkHttpClient()) // OPTIONAL. Allows customization of OkHttp by the user
                 .buildSync(); // or use .build() to get a Future<ClarifaiClient>
         client.getToken();
