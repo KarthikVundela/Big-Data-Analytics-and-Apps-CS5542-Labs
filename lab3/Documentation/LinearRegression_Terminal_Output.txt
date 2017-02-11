@@ -1,0 +1,5 @@
+(-0.4307829,[-1.63735562648104])
+
+
+training Mean Squared Error = 1.630209685538438
+test Mean Squared Error = 0.5859406107515337

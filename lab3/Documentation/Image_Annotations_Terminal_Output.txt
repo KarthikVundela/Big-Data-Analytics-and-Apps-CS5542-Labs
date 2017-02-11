@@ -1,0 +1,130 @@
+
+*************output/mainframes/518_0.003236245954692557.jpg***********
+illustration - 0.9768353
+design - 0.9734136
+vector - 0.9687277
+symbol - 0.9673376
+desktop - 0.9671116
+set - 0.9606472
+banner - 0.9495928
+flat - 0.9484651
+display - 0.948387
+business - 0.9415638
+technology - 0.939896
+internet - 0.9294028
+image - 0.9164585
+computer - 0.9101457
+picture frame - 0.8825188
+template - 0.8821037
+television - 0.8708487
+light - 0.86852014
+graphic - 0.867494
+text - 0.8588035
+*************output/mainframes/173_0.009708737864077669.jpg***********
+desktop - 0.97939605
+no person - 0.9686041
+horizontal - 0.9326776
+blank - 0.90909016
+design - 0.8974887
+empty - 0.89024484
+picture frame - 0.889942
+disjunct - 0.87186205
+abstract - 0.84838784
+clean - 0.8396245
+paper - 0.83811426
+isolated - 0.8342521
+sign - 0.83222514
+image - 0.83005357
+illustration - 0.8287971
+color - 0.81606555
+banner - 0.8133018
+space - 0.8079566
+shadow - 0.7780683
+text - 0.7779927
+*************output/mainframes/0_0.34627831715210355.jpg***********
+people - 0.9768957
+one - 0.9552469
+boy - 0.95350933
+young - 0.9525848
+nature - 0.9457347
+child - 0.9455344
+person - 0.94162095
+portrait - 0.9389351
+man - 0.93184644
+beautiful - 0.9071108
+desktop - 0.89278734
+fun - 0.8911146
+adult - 0.88201
+park - 0.8787701
+smile - 0.8735469
+solo - 0.8719978
+outdoors - 0.86977494
+lifestyle - 0.866101
+tree - 0.8616391
+summer - 0.8556614
+*************output/mainframes/372_0.009708737864077669.jpg***********
+panoramic - 0.97291553
+people - 0.96204376
+man - 0.92107964
+outdoors - 0.8979035
+collage - 0.8962336
+horizontal - 0.88872313
+indoors - 0.86941767
+desktop - 0.86870754
+business - 0.86397505
+text - 0.85642004
+bill - 0.853945
+adult - 0.8497114
+sit - 0.84602976
+banner - 0.8311131
+nature - 0.82929784
+art - 0.8136669
+family - 0.8126422
+window - 0.80549574
+illustration - 0.80105066
+woman - 0.78937113
+*************output/mainframes/326_0.009708737864077669.jpg***********
+illuminated - 0.97196174
+light - 0.96102446
+outdoors - 0.9338739
+desktop - 0.9321714
+dawn - 0.931376
+bright - 0.9203095
+dusk - 0.9188798
+sunset - 0.9136907
+dark - 0.911078
+travel - 0.91044044
+business - 0.90824604
+horizontal plane - 0.90688014
+vector - 0.89945674
+no person - 0.8919548
+sky - 0.8881903
+silhouette - 0.8859098
+bill - 0.8786976
+transportation system - 0.86787105
+evening - 0.8370422
+traffic - 0.8365725
+*************output/mainframes/279_0.009708737864077669.jpg***********
+no person - 0.9958921
+horizontal - 0.9894208
+page - 0.9867583
+blank - 0.9792074
+paper - 0.97723645
+business - 0.97335577
+internet - 0.9647043
+browser - 0.9590363
+picture frame - 0.95585346
+isolated - 0.953097
+sign - 0.9511046
+vector - 0.949692
+World Wide Web - 0.91547257
+address - 0.9142804
+text - 0.9108734
+shadow - 0.9105362
+illustration - 0.8981477
+name - 0.89440906
+label - 0.89172536
+facts - 0.8912387
+
+
+
