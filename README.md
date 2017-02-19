@@ -7,4 +7,6 @@ Lab2 : https://github.com/KarthikVundela/Big-Data-Analytics-and-Apps-CS5542_SP20
 
 Lab3 : https://github.com/KarthikVundela/Big-Data-Analytics-and-Apps-CS5542_SP2017/wiki/Lab3  
 
+Lab4 : https://github.com/KarthikVundela/Big-Data-Analytics-and-Apps-CS5542_SP2017/wiki/lab4
+
 
